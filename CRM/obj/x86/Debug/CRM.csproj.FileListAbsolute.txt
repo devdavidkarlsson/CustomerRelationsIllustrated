@@ -1,0 +1,11 @@
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.Properties.Resources.resources
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Debug\CRM.exe
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\bin\Debug\CRM.pdb
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.exe
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.pdb
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.CustomerView.resources
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.ContactView.resources
+c:\Users\David\Documents\Visual Studio 2010\Projects\CRM\CRM\obj\x86\Debug\CRM.MainView.resources
